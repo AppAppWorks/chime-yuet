@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Privacy Policy for Hanyu Pinyin Dictionary
+title: Privacy Policy for Cantonese Dictionary
 include_in_header: false
 ---
 
 # Privacy Policy
-This privacy policy governs your use of the software application Hanyu Pinyin Dictionary (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a dictionary supporting lookup of Hanyu Pinyin by Chinese characters and vice versa.&nbsp; 
+This privacy policy governs your use of the software application Cantonese Dictionary (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a dictionary supporting lookup of Cantonese Romanisation by Chinese characters and vice versa.&nbsp; 
 
 ## What information does the Application obtain and how is it used?
 
