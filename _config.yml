@@ -34,21 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Multi-language Support
-    description                           : Aloud! supports multiple languages, including English, Spanish, German, Portuguese, etc. Whether you're a native speaker or a language learner, Aloud! has you covered. 
-    fontawesome_icon_name                 : language
+  - title                                 : 雙向查詢
+    description                           : 無論係輸入中文字定係粵拼，抑或兩者夾雜，粵語字典一律支援
+    fontawesome_icon_name                 : search
     
-  - title                                 : Multi-format Support
-    description                           : Aloud! supports numerous popular text formats. Not only PDF, ePub, docx, iWork Pages files are supported, you can also import webpages into Aloud!
-    fontawesome_icon_name                 : file
+  - title                                 : 特大字庫
+    description                           : 收錄二萬幾個中日韓漢字，唔使怕查唔到字
+    fontawesome_icon_name                 : server
 
-  - title                                 : Control Reading Progress, Speed and Pitch
-    description                           : Aloud! highlights the current reading progress for your easy following. At anytime, you can skip to whatever section you like, or adjust the reading speed or pitch as you prefer.
+  - title                                 : 真人發音
+    description                           : 字正腔圓香港口音
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Save Texts and Progress
-    description                           : Aloud! automatically saves your progress as you listen to the text, you may stop and resume reading whenever you like.
-    fontawesome_icon_name                 : save
+  - title                                 : 書籤功能
+    description                           : 記低生字，時而習之，記憶先會穩固
+    fontawesome_icon_name                 : headphones
 
 
 
