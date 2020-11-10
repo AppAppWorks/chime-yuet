@@ -44,11 +44,11 @@ features                                  :
 
   - title                                 : 真人發音
     description                           : 字正腔圓香港口音
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : headphones
 
   - title                                 : 書籤功能
     description                           : 記低生字，時而習之，記憶先會穩固
-    fontawesome_icon_name                 : headphones
+    fontawesome_icon_name                 : bookmark
 
 
 
